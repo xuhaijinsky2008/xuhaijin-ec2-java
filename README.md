@@ -47,6 +47,8 @@ AWS CodeStar user guide.
    installation.
 
         $ cp target/ROOT.war <tomcat webapp directory>
+        
+        $ cp target/ROOT.war /Library/apache-tomcat-7.0.82/webapps
 
 4. Restart your tomcat server
 
